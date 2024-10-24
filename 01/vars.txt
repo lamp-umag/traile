@@ -1,0 +1,75 @@
+# Demographics
+prol    # 0=students 1=academics
+pdep    # 0=pedagogy 1=others  
+psex    # 0=men 1=women
+pgen    # 0=cis 1=else
+page    # 0=under28 1=28plus
+
+# Frequency of use (0=never to 4=almost daily)
+fuse1   # Academic info search
+fuse2   # Complex topics explanation
+fuse3   # Grammar/spelling check
+fuse4   # Text production
+fuse5   # Translation
+fuse6   # Personal matters
+fuse7   # Entertainment/curiosity
+
+# Personal use of AI (1-5 Likert)
+puse1   # Uses AI for academic tasks
+puse2   # Uses AI for study/research
+puse3   # Uses AI for personal problems
+puse4   # Uses AI for personal interests
+
+# Others' use perceptions (1-5 Likert)
+ouse1   # Students use AI academically
+ouse2   # Student AI use becoming norm
+ouse3   # Professors use AI
+ouse4   # Professors integrating AI
+
+# Personal benefits (1-5 Likert)
+pben1   # Better quality work
+pben2   # Better professional
+pben3   # Better academic performance
+pben4   # Better learning
+
+# Personal risks (1-5 Likert)
+pris1   # Risks personal development
+pris2   # Internet security risks
+pris3   # Job replacement risk
+pris4   # Personal risks
+
+# Societal benefits (1-5 Likert)
+sben1   # Solving global problems
+sben2   # Better society
+sben3   # Scientific advancement
+sben4   # Innovation enabler
+
+# Societal risks (1-5 Likert)
+sris1   # Existential threat
+sris2   # Harm to people
+sris3   # Scam risks
+sris4   # Misinformation risks
+
+# Knowledge/competence (1-5 Likert)
+know1   # Knows how to use
+know2   # Understands principles
+know3_r # Difficulty understanding (reverse)
+know4_r # Difficulty using (reverse)
+
+# Skepticism (1-5 Likert) - NEEDS RECODING
+skep1   # Impact exaggerated - keep as is
+skep2   # Just a fad - keep as is
+skep3_r # Already smarter than humans - should reverse
+skep4_r # Potential beyond comprehension - should reverse 
+
+# Education future (1-5 Likert)
+edfu1   # Support AI teaching
+edfu2   # Future includes AI
+edfu3_r # Avoid AI adoption (reverse)
+edfu4_r # Keep status quo (reverse)
+
+# Ethics (1-5 Likert)
+ethi1   # Student use ethical
+ethi2   # Teacher use ethical
+ethi3_r # Use is dishonest (reverse)
+ethi4_r # Academic use is cheating (reverse)
